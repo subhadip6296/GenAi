@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row gap-10">
           <div>
             <h3 className="font-bold mb-2">Contact</h3>
-            <p>Email: aashishaik526@gmail.com</p>
+            <p>Email: subhadipmudi20@gmail.com</p>
           </div>
           <div>
             <h3 className="font-bold mb-2">Links</h3>
@@ -57,7 +57,7 @@ const Footer = () => {
                 <Instagram size={24} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/subhadip-mudi"
                 target="_blank"
                 rel="noopener noreferrer"
               >
